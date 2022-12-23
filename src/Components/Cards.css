@@ -1,0 +1,20 @@
+.card-img{
+    width: 30%;
+}
+.btn{
+    display: inline !important;
+}
+.card{
+    padding: 1%;
+    width: 100%;
+    height: auto;
+}
+
+#main_body{
+    margin: 1%;
+}
+
+#sponsor_text{
+    color: red;
+    text-align: center;
+}
